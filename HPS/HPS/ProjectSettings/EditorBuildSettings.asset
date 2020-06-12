@@ -1,0 +1,287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/Scenes/langue.unity
+    guid: f0bf66d9831f0c2459b69c41d9309168
+  - enabled: 1
+    path: Assets/Menu/Scenes/FR/start.unity
+    guid: c3e75187b712c9846afa0c9f38d4170f
+  - enabled: 1
+    path: Assets/Menu/Scenes/FR/tuto joueur.unity
+    guid: cfd2a6cb2b1eccf4292a78749ea44e79
+  - enabled: 1
+    path: Assets/Menu/Scenes/FR/joueur_hps.unity
+    guid: 6f58ed5124452a54ea6a99714e01b41c
+  - enabled: 1
+    path: Assets/Menu/Scenes/EN/joueur_hpsEN.unity
+    guid: 0d73635b720971b4aaa77ba887f9ff94
+  - enabled: 1
+    path: Assets/Menu/Scenes/EN/startEN.unity
+    guid: d109ddeea7d6fe348b40ed00e53c23be
+  - enabled: 1
+    path: Assets/Menu/Scenes/EN/tuto joueurEN.unity
+    guid: ee0133c37734e31469ed3c773f7e4bc2
+  - enabled: 1
+    path: Assets/Tuto/Scenes/FR/tuto_j1.unity
+    guid: 0196850399d3d9140a46a0f026529b63
+  - enabled: 1
+    path: Assets/Tuto/Scenes/FR/tuto_j2.unity
+    guid: 89611946d450944469f7754bb406abd5
+  - enabled: 1
+    path: Assets/Tuto/Scenes/FR/tuto_j3.unity
+    guid: 435403b18b1ae8f4c9b1f717a438e1f4
+  - enabled: 1
+    path: Assets/Tuto/Scenes/EN/tuto_j1EN.unity
+    guid: 01047127d3b27b84eb48095161fa8565
+  - enabled: 1
+    path: Assets/Tuto/Scenes/EN/tuto_j2EN.unity
+    guid: 2af335f769270cc47962863553d7aa86
+  - enabled: 1
+    path: Assets/Tuto/Scenes/EN/tuto_j3EN.unity
+    guid: a5c5b9abf6317254792675e67a52a60e
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_1.unity
+    guid: 22229f117eb6bef4fa22488a82f4fc98
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_2.unity
+    guid: 1b6952c011ed14a4eb23b4d2fb0c98c9
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_3.unity
+    guid: 985fc09141d0f084482b1f41ab0318c8
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_inter1.unity
+    guid: aff8d8f1c46d6494b90ea22d89b3915e
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_inter2.unity
+    guid: adeb243de24447540a5d91966348a828
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_inter3.unity
+    guid: fdf4918f2758cda4b81afb9c19aac400
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_inter4.unity
+    guid: d2c5dbfcd5eda7945acd2043b8056027
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_inter5.unity
+    guid: 707469159a8829b408d582f632245564
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_inter6.unity
+    guid: 17fde8ceeab4c82408ff6324942c735c
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/ggwp.unity
+    guid: 1634b079ab3b836478afcf38620a5eb0
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/ggwpEN.unity
+    guid: 4f2e7d7cf2417074190cd504cbaae4bb
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_1EN.unity
+    guid: 49344118761d6604f93db9bc1f41772b
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_2EN.unity
+    guid: 6e7c29d26fa3a814f8b50063cb81d6a0
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_3EN.unity
+    guid: 8a9febbaf57e26240ae23eeb8d55b8d8
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_4EN.unity
+    guid: 1897b386945f49b439dd370e84917baa
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_5EN.unity
+    guid: 0e56747f500b77447b7826d3bff89b17
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_6EN.unity
+    guid: 051a7d02dddcc1c4fb176749eb7193ea
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_7EN.unity
+    guid: e27529364f0ba384c9fab0f61480158f
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_inter1EN.unity
+    guid: 787b1600766928544b59e8a1952c18a7
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_inter2EN.unity
+    guid: 1bdd70b0f5188f543bd8737d97e314f3
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_inter3EN.unity
+    guid: 54cdeeecae6b75d4084230de3511ec26
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_inter4EN.unity
+    guid: 53c1f45656936084ab22b1e7357a4e06
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_inter5EN.unity
+    guid: 308b4998376a063418a6bf12b789d531
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/EN/j1_inter6EN.unity
+    guid: 4e0f7d4176361ca4e8a063fa15edcd43
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_1EN.unity
+    guid: cde79b2e36343f748a39189238b5dab7
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_2EN.unity
+    guid: 2908a325b6ab33d40869436492d20470
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_3EN.unity
+    guid: 421f1d6bed753d14f85556d085733255
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_4EN.unity
+    guid: 26ef555be107fa04abc2bf9493022761
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_5EN.unity
+    guid: 90f6fd0cd2d9d404e89152e1d298aa82
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_6EN.unity
+    guid: 3071590665ceea34f8d64693278749da
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_7EN.unity
+    guid: c1b6d1cc62fcec8469dcbb30e6b41261
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_inter1EN.unity
+    guid: 0d0e18b876a114f43a1e9412b0e40eaa
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_inter2EN.unity
+    guid: cec2f468a065d904ca59facf06534ee1
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_inter3EN.unity
+    guid: 5ffabeca37eeb524ba8ddd29f4fdfb97
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_inter4EN.unity
+    guid: 5c0552d9ebc1f7841950984bac6827ad
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_inter5EN.unity
+    guid: f78d9ec0260f4f147b16a07c08f9563f
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_1EN.unity
+    guid: 7f517b2bbee099e49ac757573c30c375
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_2EN.unity
+    guid: f52ee803a3e81b947adb81c625a8ca3e
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_3EN.unity
+    guid: 19b6a2fa91f895d4fae350719c0ee980
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_4EN.unity
+    guid: 77a1f59627af0d34ba37605e218409ee
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_5EN.unity
+    guid: 45b60c9e81be42c4aa6a80ca26ade093
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_6EN.unity
+    guid: 5ea9d0e3511be71489708529de27aec2
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_7EN.unity
+    guid: 4d2408bff05dbaf4c88f68d5e482ae78
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_inter1EN.unity
+    guid: 14179965e37f0e349b2493c32e88b290
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_inter2EN.unity
+    guid: 152a4d9c5c02dda4fb064849df45f870
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_inter3EN.unity
+    guid: 69a543456545c04408606eced3502340
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_inter4EN.unity
+    guid: 61552da4607a7734daa38563b1427ea4
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_inter5EN.unity
+    guid: 18f4bd2449b442d40ba3f48cbee6ecb3
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/EN/j3_inter6EN.unity
+    guid: 5707903994d7198468242dc7f42d6c5f
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/EN/j2_inter6EN.unity
+    guid: 81756a6acdc21ca4a9187147e1f24949
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_inter1.unity
+    guid: a0ad987c0403c674394e73e0348f399d
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_inter2.unity
+    guid: 1b5d441f41c01394ebeae77400ab06b8
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_inter3.unity
+    guid: 17cc6fc4beccddb4da02b61108484e20
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_inter4.unity
+    guid: c9d9509bb6ba10a4f986d03e6997f6df
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_inter5.unity
+    guid: 5f37bb6fec3154c4eb2df1a5d1871ca9
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_inter6.unity
+    guid: 589b100fe81d8574dab02fa90eaac9a4
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_inter1.unity
+    guid: 7f0dcfdec3b4bfc4ba64526bb5c2b1f7
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_inter2.unity
+    guid: a2cfe9f06dead204c935537166359244
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_inter3.unity
+    guid: 28babf3896f3b7840b2245a0ba8cbcdc
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_inter4.unity
+    guid: d39cf9a5715ab0e4c8ea7e86a564e284
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_inter5.unity
+    guid: ebdb03d7e8b14574b8724b12f9566075
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_inter6.unity
+    guid: 1f3a7010f13d48848bfc987efddc7127
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_4.unity
+    guid: e79d6b5b62a4d1d49b40f9ff21bc4e40
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_5.unity
+    guid: 252be90863e75674cade55159983649f
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_6.unity
+    guid: b3af897f6bda0ad4ba98f22033019231
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_1.unity
+    guid: 64f8ec91afc7778469712a03d295f1f9
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_2.unity
+    guid: 7fdcf38495f5da94f972e3b7320a86f7
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_3.unity
+    guid: d7652afc0799cfa4ab65b085494678a0
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_4.unity
+    guid: 73b69c979b2e71543937e6d03e75ad69
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_1.unity
+    guid: fc4b6167e2f4d6e4c8b089875b1ee7f0
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_2.unity
+    guid: bc6cfac9df2268244aaac5c4a2236838
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_3.unity
+    guid: 61f9c5e5ae757d444bba1f386d6a927c
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_4.unity
+    guid: dbe7705706e11394eb349d651d1e3d76
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_5.unity
+    guid: a3bd54ae1d4f9ff43b00acf5a0d933b2
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_6.unity
+    guid: 15e11f9292f73a7428826b1ae377e294
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_7.unity
+    guid: 2305f6a2df060914f8a67f2a0e6b73fc
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 3/FR/j3_7.unity
+    guid: 1828336555d5db948aa29bffed596862
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_5.unity
+    guid: b6750844e81b36a408e1374cd69028fa
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 2/FR/j2_6.unity
+    guid: e3ededa83752ab946842ba77f93a3ff8
+  - enabled: 1
+    path: Assets/HPS/Scennens/joueur 1/FR/j1_7.unity
+    guid: 08dfbca09bfd6f44da75eb4396703579
+  m_configObjects: {}
